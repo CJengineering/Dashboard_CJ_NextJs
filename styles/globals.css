@@ -24,3 +24,14 @@ a {
     background: black;
   }
 }
+.green-text{
+  color:green;
+}
+.blue-text{
+  color: blue;
+}
+
+.bold-text{
+  font-size: larger;
+  font-weight: bold;
+}
